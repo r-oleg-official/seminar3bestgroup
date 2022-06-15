@@ -37,7 +37,9 @@
     $ git mv [orig_file] [new_file] - переименование файла из "orig_file" в "new_file" c индексацией для последующего комментирования.
 
 > ## Цитата из [git-scm](https://git-scm.com/ "Всё рядом")
-> **_`Git` --everything-is-local_**
+>**_`Git` --everything-is-local_**
+---
+Для проверки синтаксиса MarkDown можно загрузить код на [m2pdf.](https://md2pdf.netlify.app/#links)
 
 ![](to-bee-continued_250px.jpg)
 
