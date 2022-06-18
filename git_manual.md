@@ -76,3 +76,7 @@
 
     $ rm -fr ".git/rebase-merge"
 
+Спрятать изменения от `git`'a, [см](https://pingvinus.ru/git/1718):
+
+    $ git stash save "any message"
+
