@@ -8,6 +8,10 @@
 
     git branch [branch_name]
 
+Создание новой ветки и сразу переход в неё:
+
+    $ git checkout -b [branch_name]
+
 Переход между ветками:
 
     $ git checkout [branch_name]
