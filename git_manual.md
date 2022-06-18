@@ -80,4 +80,4 @@
 
     $ git stash save "any message"
 
-
+Материал по `git stash` [atlassian.com](https://www.atlassian.com/ru/git/tutorials/saving-changes/git-stash).
