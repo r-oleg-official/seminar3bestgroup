@@ -20,3 +20,4 @@ test22
 Созданы ветки.
 Code into stick-1.
 Code into stick-2.
+Code into stick-3.
