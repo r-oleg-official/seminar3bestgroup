@@ -17,3 +17,6 @@ test2
 test22
 
 Создание 4-х веток: stick-1, stick-2, stick-3, stick-4.
+
+
+Code into stick-2.
