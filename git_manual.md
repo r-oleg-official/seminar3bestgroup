@@ -81,3 +81,23 @@
     $ git stash save "any message"
 
 Материал по `git stash` [atlassian.com](https://www.atlassian.com/ru/git/tutorials/saving-changes/git-stash).
+
+# Github.
+
+## Quick setup
+
+…or create a new repository on the command line
+
+    echo "# test" >> README.md
+    git init
+    git add README.md
+    git commit -m "first commit"
+    git branch -M main
+    git remote add origin <url_repo>
+    git push -u origin main
+
+…or push an existing repository from the command line
+
+    git remote add origin <url_repo>
+    git branch -M main
+    git push -u origin main
