@@ -101,6 +101,6 @@
     git branch -M main
     git push -u origin main
 
-Команда `git branch -M main` - переименовывает основную ветку на `main`.
-Команда `git remote add origin <url_repo>` - создает связку удаленного репо по адресу `<url_repo>` с локальным через имя-ссылку `origin`.
+Команда `git branch -M main` - переименовывает основную ветку на `main`.<br>
+Команда `git remote add origin <url_repo>` - создает связку удаленного репо по адресу `<url_repo>` с локальным через имя-ссылку `origin`.<br>
 Команда `git push -u origin main` - загружает данные ветки `main` локального репозитория через имя-ссылку в конфиге на удаленный репозиторий.
