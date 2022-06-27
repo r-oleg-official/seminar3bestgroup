@@ -81,9 +81,9 @@
 
 Материал по `git stash` [atlassian.com](https://www.atlassian.com/ru/git/tutorials/saving-changes/git-stash).
 
-# Github.
+# Remote repository.
 
-## Quick setup
+## 1. Github. Quick setup.
 
 …or create a new repository on the command line - случай, когда еще не создан локальный репозиторий, создается в терминале.
 
@@ -104,3 +104,13 @@
 Команда `git branch -M main` - переименовывает основную ветку на `main`.<br>
 Команда `git remote add origin <url_repo>` - создает связку удаленного репо по адресу `<url_repo>` с локальным через имя-ссылку `origin`.<br>
 Команда `git push -u origin main` - загружает данные ветки `main` локального репозитория через имя-ссылку в конфиге на удаленный репозиторий.
+
+## 2. Synchronization with a remote repository. 
+Материалы:
+* [Синхронизация в Git](https://www.atlassian.com/ru/git/tutorials/syncing).
+* [Git изнутри - Спецификации ссылок](https://git-scm.com/book/ru/v2/Git-%D0%B8%D0%B7%D0%BD%D1%83%D1%82%D1%80%D0%B8-%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D0%B8-%D1%81%D1%81%D1%8B%D0%BB%D0%BE%D0%BA)
+* [Что такое git remote add... "и" git push origin master "?](https://ask-dev.ru/info/27355/what-is-git-remote-add-and-git-push-origin-master)
+
+### 2.1. Command `git remote`.
+
+    $ git remote -v - просмотр ссылок на связь локального репо-я с удаленными репо-ми
