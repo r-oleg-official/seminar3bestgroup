@@ -90,6 +90,6 @@ $$
 * Vmatrix - ||1324||;
 
 ### Греческий алфавит
-### A - $\alpha$, B - $\beta$, $\Gamma$ - $\gamma$, $\Delta$ - $\delta$, E - $\epsilon$,  $\varepsilon$, Z - $\zeta$, H - $\eta$, $\Theta$ - $\theta$, I - $\iota$, K - $\kappa$, $\Lambda$ - $\lambda$, M - $\mu$, N - $\nu$, $\Xi$ - $\xi$, O - $\omicron$, $\Pi$ - $\pi$, P - $\rho$, $\Sigma$ - $\sigma$, T - $\tau$, $\Upsilon$ - $\upsilon$, $\Phi$ - $\phi$, $\varphi$, X - $\chi$, $\Psi$ - $\psi$, $\Omega$ - $\omega$.
+A - $\alpha$, B - $\beta$, $\Gamma$ - $\gamma$, $\Delta$ - $\delta$, E - $\epsilon$,  $\varepsilon$, Z - $\zeta$, H - $\eta$, $\Theta$ - $\theta$, I - $\iota$, K - $\kappa$, $\Lambda$ - $\lambda$, M - $\mu$, N - $\nu$, $\Xi$ - $\xi$, O - $\omicron$, $\Pi$ - $\pi$, P - $\rho$, $\Sigma$ - $\sigma$, T - $\tau$, $\Upsilon$ - $\upsilon$, $\Phi$ - $\phi$, $\varphi$, X - $\chi$, $\Psi$ - $\psi$, $\Omega$ - $\omega$.
 
 [Источник](https://russianblogs.com/article/18521116359/).
