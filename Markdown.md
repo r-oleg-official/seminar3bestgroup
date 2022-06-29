@@ -58,9 +58,11 @@ $\lim_{n\rightarrow+\infty} n$ - предел
 * $\sin$, $\cos$, $\tan$, 
 
 Пример формулы с нумерацией:
+
 $$e^{i\theta}=cos\theta+\sin\theta i\tag{1}$$
 
 Матрица:
+
 $$
 \begin{matrix}
 1 & 2 & 3 \\
@@ -70,6 +72,7 @@ $$
 $$
 
 Матрица в скобках:
+
 $$
 \left[
 \begin{matrix}
@@ -78,6 +81,7 @@ $$
 7 & 8 & 9 
 \end{matrix} \right]\tag{2}
 $$
+
 Формы матрицы:
 * pmatrix - (1324);
 * bmatrix - [1324];
