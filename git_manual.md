@@ -124,3 +124,21 @@
 ### 2.3. Command `git remote`.
 
     $ git remote -v - просмотр ссылок на связь локального репо-я с удаленными репо-ми
+
+## 3. Объединение двух репозиториев.
+
+1. [как объединить два репозитория Git?](https://overcoder.net/q/13252/%D0%BA%D0%B0%D0%BA-%D0%BE%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%82%D1%8C-%D0%B4%D0%B2%D0%B0-%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F-git);
+2. [git, объединить разные репозитории?](https://stackoverflow.com/questions/2949738/git-merge-different-repositories).
+3. [Объедините два репозитория Git и сохраните историю](https://ask-dev.ru/info/10867/merge-two-git-repos-and-keep-the-history).
+
+Если нужно объединить project-a с project-b:
+
+    cd path/to/project-b
+    git remote add project-a path/to/project-a
+    git fetch project-a --tags
+    git merge --allow-unrelated-histories project-a/master # or whichever branch you want to merge
+    git remote remove project-a # удаляет запись из .git/config о project-a
+
+Этот метод работал очень хорошо для меня, он короче и, на мой взгляд, намного чище.
+
+> Примечание. Параметр --allow-unrelated-histories существует только после того, как git> = 2.9. См. Git - Документация по git merge / --allow-unrelated-history (https://git-scm.com/docs/git-merge#git-merge---allow-unrelated-histories%23git-merge---allow-unrelated-histories)
