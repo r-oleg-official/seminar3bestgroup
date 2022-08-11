@@ -94,3 +94,9 @@ $$
 A - $\alpha$, B - $\beta$, $\Gamma$ - $\gamma$, $\Delta$ - $\delta$, E - $\epsilon$,  $\varepsilon$, Z - $\zeta$, H - $\eta$, $\Theta$ - $\theta$, I - $\iota$, K - $\kappa$, $\Lambda$ - $\lambda$, M - $\mu$, N - $\nu$, $\Xi$ - $\xi$, O - $\omicron$, $\Pi$ - $\pi$, P - $\rho$, $\Sigma$ - $\sigma$, T - $\tau$, $\Upsilon$ - $\upsilon$, $\Phi$ - $\phi$, $\varphi$, X - $\chi$, $\Psi$ - $\psi$, $\Omega$ - $\omega$.
 
 [Источник](https://russianblogs.com/article/18521116359/).
+
+Дополнительно:
+1. [Оформляем README-файл профиля на GitHub](https://habr.com/ru/post/649363/) 
+2. [Как написать красивый и информативный README.md](https://nuancesprog.ru/p/7105/)
+3. [Markdown - напиши README за 2 минуты](https://youtu.be/FFBTGdEMrQ4)
+
